@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="461fb27f-198b-4d2b-acc9-950291baae76" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalproject/FastestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalproject/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalproject/GraphTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalproject/PathFindingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalproject/SafestShortestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalproject/ShortestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalproject/TilePriorityQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalproject/system/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalproject/system/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalproject/system/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalproject/system/StateManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalproject/system/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalproject/system/TileComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalproject/system/TileType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalproject/system/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalproject/system/finalproject.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalproject/system/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalproject/tiles/DesertTile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalproject/tiles/FacilityTile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalproject/tiles/MetroTile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalproject/tiles/MountainTile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalproject/tiles/PlainTile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalproject/tiles/ZombieInfectedRuinTile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2bkHL1B0iw4pCyHjb4LjrZbTv9s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.COMP250_FinalProject_Yazan.executor": "Run",
+    "Application.HelloApplication.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/yazan/Documents/IdeaProjects/COMP250_F22_FinalProject_Yazan/src",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15527344",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\yazan\Documents\IdeaProjects\COMP250_F22_FinalProject_Yazan\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="COMP250_FinalProject_Yazan" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="finalproject.system.Main" />
+      <module name="COMP250_F22_FinalProject_Yazan" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-21.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.media" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="461fb27f-198b-4d2b-acc9-950291baae76" name="Changes" comment="" />
+      <created>1706752101792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706752101792</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
